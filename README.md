@@ -11,7 +11,7 @@ This repository provides the official PyTorch implementation of our paper:
 - We propose **Posterior-guided Latent Counterpart Inference (PLCI)**, a unified framework that models the desired cross-view counterpart as a latent variable. PLCI combines **instance-level reliability estimation** with **prototype-level semantic transport** to infer its posterior distribution, providing reliable counterpart targets for learning from both mismatched pairs and incomplete instances.
 - Experiments on **six multi-view datasets** against **10 state-of-the-art methods** demonstrate the effectiveness of PLCI under imperfect information. PLCI can also be incorporated into existing multi-view clustering methods to improve their robustness.
 
-![Overview of PLCI: instance-level reliability estimation, prototype-level semantic transport, and latent counterpart inference.](figures/framework.pdf)
+![Overview of PLCI: instance-level reliability estimation, prototype-level semantic transport, and latent counterpart inference.](figures/framework.png)
 
 ## Requirements
 
