@@ -1,0 +1,11 @@
+# Python 3.11 recommended. PyTorch CUDA build is not pinned.
+# Install: python -m pip install -r requirements.txt
+
+torch==2.5.1
+numpy==2.3.5
+scipy==1.17.0
+scikit-learn==1.8.0
+PyYAML==6.0.3
+munkres==1.1.4
+matplotlib==3.10.8
+tqdm==4.67.3

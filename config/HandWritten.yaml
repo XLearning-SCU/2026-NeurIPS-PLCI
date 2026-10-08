@@ -1,0 +1,19 @@
+dataset: HandWritten
+
+encoder_dim:
+  - [ 240, 1024, 1024, 1024, 128 ]
+  - [ 76, 1024, 1024, 1024, 128 ]
+
+n_classes: 10
+
+batch_size: 1024
+momentum: 0.98
+temperature: 0.5
+
+blr: 2.0e-4
+min_blr: 2.0e-4
+weight_decay: 0
+
+data_path: /opt/data/private/zhichao/workspace/DataSet/DATASET_MvC
+# output_dir: test-Mixture_HandWritten
+seed: 1
