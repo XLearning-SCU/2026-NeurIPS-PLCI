@@ -2,7 +2,7 @@
 
 This repository provides the official PyTorch implementation of our paper:
 
-> Zhichao Huang, Haochen Zhou, Hao Wang, Xi Peng, Mouxing Yang,<br>
+> Zhichao Huang, Haochen Zhou, Hao Wang, Mouxing Yang, Xi Peng,<br>
 > *Robust Multi-view Clustering against Imperfect Information*, NeurIPS 2026. 👉 [[Paper]](https://openreview.net/forum?id=1FPjSicyVu) [[Conference Page]](https://nips.cc/virtual/2026/loc/sydney/poster/156004)
 
 ## Introduction
