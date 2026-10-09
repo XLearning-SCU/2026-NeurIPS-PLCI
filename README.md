@@ -54,7 +54,7 @@ If you find this repository useful in your research, please consider citing:
 ```bibtex
 @inproceedings{huang2026robust,
   title={Robust Multi-view Clustering against Imperfect Information},
-  author={Huang, Zhichao and Zhou, Haochen and Wang, Hao and Peng, Xi and Yang, Mouxing},
+  author={Huang, Zhichao and Zhou, Haochen and Wang, Hao and Yang, Mouxing and Peng, Xi},
   booktitle={Advances in Neural Information Processing Systems},
   year={2026},
 }
